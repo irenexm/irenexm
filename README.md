@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-< Talk a little bit about yourself here! Perhaps include your interests in the field of computer science / software engineering >
+I'm a cs student at UNC interested in the intersection of technology and data. I am also majoring in stats with a data science minor. Looking to try and further my understanding of code and engineering. 
 
 ## Skills
 
+
 ### Classes
-< Talk about what you have learned in different classes here. No need to be extremely specific, but feel free to include COMP 110, COMP 210 (if you have enrolled), and COMP 290! >
+I have taken courses in Data Structures, Algorithms, Discrete Math, Digital Logic, Databases, Web Development, Data Analysis, and so on. These courses have raised my breadth of understanding. 
 
 ### Tools and Programming Languages
-< Include programming languages you know here! If you would like, since this list may be relatively short (since you are still an underclassmen!), perhaps include some of the things you have worked on in these languages. *Feel free to include git and Docker too!* >
+Experienced in languages such as python, java, and javascript. Moderate experience in languages and frameworks such as C, PhP, SQL, React. Familiarity with tools such as git, docker, and excel. 
 
