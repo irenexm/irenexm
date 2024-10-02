@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 I'm a cs student at UNC interested in the intersection of technology and data. I am also majoring in stats with a data science minor. Looking to try and further my understanding of code and engineering. 
 
 ## Skills
-
+Trying to be open to learning
 
 ### Classes
 I have taken courses in Data Structures, Algorithms, Discrete Math, Digital Logic, Databases, Web Development, Data Analysis, and so on. These courses have raised my breadth of understanding. 
 
 ### Tools and Programming Languages
-Experienced in languages such as python, java, and javascript. Moderate experience in languages and frameworks such as C, PhP, SQL, React. Familiarity with tools such as git, docker, and excel. 
+Experienced in languages such as Python, Java, and Javascript. Moderate experience in languages and frameworks such as C, PhP, SQL, React. Familiarity with tools such as git, docker, and excel. 
 
